@@ -1,1 +1,5 @@
-# OptimusTech-7-of-Days-
+# Sistema de cadastro de jogos #
+
+> Status do projeto: Conclúido
+
+> README do projeto : Em desenvolvimento
